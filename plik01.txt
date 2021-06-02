@@ -1,2 +1,3 @@
 Osoba1: Kacper M.
+Osoba3: Marcin Staskiewicz
 Osoba2: Jakub Szczepankiewicz
